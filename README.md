@@ -103,7 +103,7 @@ class Greeting extends React.Component {
   }
 }
 ```
-Then, we shoudl tell React where to render that component into:
+Then, we should tell React where to render that component into:
 ```js
 ReactDOM.render(
   e(Greeting),
