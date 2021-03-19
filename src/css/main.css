@@ -1,0 +1,30 @@
+.card {
+    border: 1px solid grey;
+    border-radius: 5px;
+    max-width: 350px;
+    margin: 20px;
+}
+
+.card__img {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 0 0;
+}
+
+.card__title {
+    margin: 10px
+}
+
+.card__text {
+    margin: 10px;
+}
+
+.card__btn {
+    background-color: transparent;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px 25px;
+    height: 40px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
